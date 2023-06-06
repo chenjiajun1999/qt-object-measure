@@ -1,0 +1,71 @@
+<RCC>
+    <qresource prefix="/">
+        <!--  qml 文件 -->
+        <file>./views/main.qml</file>
+
+        <file>./views/widget/ColorHelper.qml</file>
+        <file>./views/widget/MethodsHelpers.qml</file>
+        <file>./views/widget/MenuTapBar.qml</file>
+        <file>./views/widget/SeparatorLine.qml</file>
+        <file>./views/widget/FileLoader.qml</file>
+        <file>./views/widget/ExpandingSectionButton.qml</file>
+        <file>./views/widget/FolderLoader.qml</file>
+        <file>./views/widget/ImageLoaderView.qml</file>
+        
+        <file>./views/screen/MediaScreen/MediaScreen.qml</file>
+        <file>./views/screen/MediaScreen/VideoInputSelectPane.qml</file>
+        <file>./views/screen/MediaScreen/VideoInputSettingsPane.qml</file>
+        <file>./views/screen/MediaScreen/MediaOutputPane.qml</file>
+
+        <file>./views/screen/ServiceScreen/OpenCV/CalibrateSettings.qml</file>
+        <file>./views/screen/ServiceScreen/OpenCV/MeasureSettings.qml</file>
+
+        <file>./views/screen/ServiceScreen/CommonSettings.qml</file>
+        <file>./views/screen/ServiceScreen/ServiceScreen.qml</file>
+
+
+        <!--  图片文件 -->
+        <file>./assets/image/data.png</file>
+        <file>./assets/image/media.png</file>
+        <file>./assets/image/plus.png</file>
+        <file>./assets/image/loadingShutter.png</file>
+        <file>./assets/image/round_close_fullscreen_white_48dp.png</file>
+        <file>./assets/image/round_fullscreen_white_48dp.png</file>
+        <file>./assets/image/camera.png</file>
+        <file>./assets/image/memory.png</file>
+        <file>./assets/image/settings.png</file>
+        <file>./assets/image/show_chart.png</file>
+        <file>./assets/image/visibility.png</file>
+        <file>./assets/image/moreVert.png</file>
+        <file>./assets/image/play.png</file>
+        <file>./assets/image/stop.png</file>
+        <file>./assets/image/detected.png</file>
+        <file>./assets/image/opencv_icon.png</file>
+        <file>./assets/image/data_icon.png</file>
+        <file>./assets/image/pause.png</file>
+        <file>./assets/image/pngwave.png</file>
+        <file>./assets/image/left-arrow.png</file>
+        <file>./assets/image/settings_black.png</file>
+        <file>./assets/image/opencv.png</file>
+        <file>./assets/image/showchart_black.png</file>
+        <file>./assets/image/camera_black.png</file>
+        <file>./assets/image/cloud_black.png</file>
+        <file>./assets/image/brain.png</file>
+        <file>./assets/image/dumbbell.png</file>
+        <file>./assets/image/round_check_black_48dp.png</file>
+        <file>./assets/image/round_check_white_48dp.png</file>
+        <file>./assets/image/round_insert_photo_black_48dp.png</file>
+        <file>./assets/image/round_local_movies_black_48dp.png</file>
+        <file>./assets/image/round_computer_black_48dp.png</file>
+        <file>./assets/image/round_wifi_black_48dp.png</file>
+        <file>./assets/image/cctv.png</file>
+        <file>./assets/image/round_link_black_48dp.png</file>
+
+        <file>./assets/glsl/shader.frag</file>
+        <file>./assets/glsl/shader.vert</file>
+
+
+        <file>./qtquickcontrols2.conf</file>
+
+    </qresource>
+</RCC>
