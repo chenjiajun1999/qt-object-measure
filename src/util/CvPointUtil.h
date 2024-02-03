@@ -1,5 +1,5 @@
 /**
- * Created by hachikuji on 2022/1/9.
+ * Created by Jiajun Chen on 2022/1/9.
  */
 #ifndef QT_OBJECT_MEASURE_CVPOINTUTIL_H
 #define QT_OBJECT_MEASURE_CVPOINTUTIL_H

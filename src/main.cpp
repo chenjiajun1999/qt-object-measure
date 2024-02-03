@@ -19,8 +19,8 @@ int main(int argc, char *argv[]) {
     QGuiApplication::setOrganizationName("Personal");
     QGuiApplication::setOrganizationDomain("China");
 
-    qmlRegisterType<CvMediaPlayer>("online.hachikuji.component", 1, 0, "CvMediaPlayer");
-    qmlRegisterType<ObjectListModel>("online.hachikuji.model", 1, 0, "ObjectListModel");
+    qmlRegisterType<CvMediaPlayer>("online.qom.component", 1, 0, "CvMediaPlayer");
+    qmlRegisterType<ObjectListModel>("online.qom.model", 1, 0, "ObjectListModel");
 
     QQmlApplicationEngine engine;
 

@@ -1,5 +1,5 @@
 /**
- * Created by hachikuji on 2021/12/28.
+ * Created by Jiajun Chen on 2021/12/28.
  */
 #ifndef OBJECT_MEASURE_CAMERA_H
 #define OBJECT_MEASURE_CAMERA_H

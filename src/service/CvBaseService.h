@@ -1,5 +1,5 @@
 /**
- * Created by hachikuji on 2022/1/6.
+ * Created by Jiajun Chen on 2022/1/6.
  */
 
 #ifndef QT_OBJECT_MEASURE_CVBASESERVICE_H

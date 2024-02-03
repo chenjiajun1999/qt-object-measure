@@ -8,7 +8,7 @@ import QtQuick.Controls.Material.impl 2.12
 
 import "qrc:/views/widget" as Widgets
 
-import online.hachikuji.component 1.0
+import online.qom.component 1.0
 
 Item {
     id: rootPanel

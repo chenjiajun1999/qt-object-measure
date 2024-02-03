@@ -1,5 +1,5 @@
 /**
- * Created by hachikuji on 2021/1/7.
+ * Created by Jiajun Chen on 2021/1/7.
  */
 #include "CvImageUtil.h"
 
